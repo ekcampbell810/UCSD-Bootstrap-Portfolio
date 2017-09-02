@@ -1,0 +1,14 @@
+.navbar-brand {
+	margin-left: 50px;
+	background: #4aaaa5;
+}
+
+/* CANT GET COLOR TEXT TO WORK 
+.navbar-inverse {
+	background: white;
+}
+*/
+
+.panel-title {
+	text-align: center;
+}
